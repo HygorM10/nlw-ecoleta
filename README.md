@@ -112,7 +112,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 ```
 🔀 README.md inspired by [Daniel Obara](https://github.com/DanielObara)
 
-Made with by Hygor Martins :wave: [Get in touch!](https://www.linkedin.com/in/hygormartins/)
+💪 Made with by Hygor Martins :wave: [Get in touch!](https://www.linkedin.com/in/hygormartins/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
